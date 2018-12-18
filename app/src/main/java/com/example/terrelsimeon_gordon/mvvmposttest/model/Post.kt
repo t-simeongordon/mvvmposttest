@@ -1,5 +1,5 @@
 package com.example.terrelsimeon_gordon.mvvmposttest.model
-
+//added
 /**
  * Class which provides a model for post
  * @constructor Sets all properties of the post
